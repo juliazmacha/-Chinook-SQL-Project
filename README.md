@@ -6,6 +6,8 @@ This SQL project focuses on analyzing the Chinook dataset, representing a digita
 
 ## Database Diagram
 
+![chinook](https://github.com/juliazmacha/-Chinook-SQL-Project/assets/115115006/211f84af-3eb4-4d45-9a52-403c10ebe2d7)
+
 ### employees Table
 - Stores employees' data such as employee ID, last name, first name, etc.
 - Contains a field named ReportsTo to specify reporting relationships.
